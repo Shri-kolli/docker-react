@@ -1,3 +1,21 @@
+the project just runs a simple node server in dev with simple Dockerfile
+
+and a multi stage Dockerfile, with build running in nginx // similar to production based projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------
+------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
